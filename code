@@ -1,0 +1,6 @@
+<script type='text/javascript'>
+// Configuration
+var config = {
+  postsDatePrefix: false,
+  accessOnly: false,
+  useApiV3: true, // Activamos el uso de la API V3
